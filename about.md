@@ -4,12 +4,11 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+You won't have anymore info :)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Open a Github Issue at https://github.com/zettablog/zettablog.github.io/  
+<--! [email@domain.com](mailto:email@domain.com) -->
