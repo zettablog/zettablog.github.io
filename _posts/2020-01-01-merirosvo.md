@@ -8,6 +8,8 @@ title: Merirosvo
 
 [ALVR](https://github.com/JackD83/ALVR) : ALVR is an open source remote VR display for Oculus Quest. With it, you can play SteamVR games in your standalone headset.  
 [ALVR-Releases](https://github.com/JackD83/ALVR/releases) 
+[Oculus Link](http://www.jeuxvideo.com/forums/42-1000046-61462541-1-0-1-0-referencement-des-cables-et-rallonges-compatibles-ou-non-pour-l-oculus-link.htm)
+
 
 
 ### 3D Modeling
