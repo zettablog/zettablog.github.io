@@ -2,7 +2,7 @@
 layout: post
 title: Best Useful Website
 ---
-
+[]()
 ### Buying
 
 [DealLabs](https://www.dealabs.com)
@@ -16,6 +16,18 @@ title: Best Useful Website
 ### Web Scraping
 
 [WebScraper.io](https://www.webscraper.io)
+
+### Note Taking
+
+[Notion](https://www.notion.so/personal) 
+
+### Languages
+
+[English pronunciation](https://www.englishclub.com/pronunciation/) 
+
+### Recipes
+
+[Cookies](https://www.cuisineactuelle.fr/recettes/cookies-moelleux-americain-196150#) 
 
 ### Reviews
 
