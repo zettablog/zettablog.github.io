@@ -2,7 +2,9 @@
 layout: post
 title: Best Useful Website
 ---
+
 []()
+
 ### Buying
 
 [DealLabs](https://www.dealabs.com)
@@ -48,6 +50,10 @@ title: Best Useful Website
 ### Programmation principles
 
 [PM-DYSI](http://programming-motherfucker.com)
+
+### Tips; Tricks; Hacks
+
+[geoguessr tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
 
 ### Emulator
 [Memu](https://www.memuplay.com)
