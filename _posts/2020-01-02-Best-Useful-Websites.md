@@ -14,6 +14,11 @@ title: Best Useful Website
 ### Reading
 
 [Reddit Best Unknown websites](https://www.reddit.com/r/AskReddit/comments/f937om/what_is_the_coolest_website_youve_visited_that_no/)
+
+### Fun 
+
+[9gag](https://9gag.com/)
+[Reddit](https://www.reddit.com/)
 [XKCD](https://xkcd.com/)
 
 ### Web Scraping
