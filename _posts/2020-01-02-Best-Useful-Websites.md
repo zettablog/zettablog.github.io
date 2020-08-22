@@ -21,6 +21,9 @@ title: Best Useful Website
 [Reddit](https://www.reddit.com/)
 [XKCD](https://xkcd.com/)
 
+/ FR
+[Topito](https://www.topito.com/)
+
 ### Web Scraping
 
 [WebScraper.io](https://www.webscraper.io)
