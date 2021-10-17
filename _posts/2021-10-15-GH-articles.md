@@ -1,3 +1,7 @@
+# Linux
+
+https://github.com/AdnanHodzic/auto-cpufreq
+
 ## ML
 
 GAN
