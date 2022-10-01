@@ -14,12 +14,14 @@ title: Best Useful Website
 ### Reading
 
 [Reddit Best Unknown websites](https://www.reddit.com/r/AskReddit/comments/f937om/what_is_the_coolest_website_youve_visited_that_no/)
+[Remove Paywalls](https://outline.com/index.html)
 
 ### Fun 
 
 [9gag](https://9gag.com/)
 [Reddit](https://www.reddit.com/)
 [XKCD](https://xkcd.com/)
+[Goomics](https://goomics.net/50/)
 
 / FR
 [Topito](https://www.topito.com/)
