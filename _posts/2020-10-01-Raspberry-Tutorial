@@ -1,0 +1,17 @@
+
+### Raspberry tutorials
+
+### Create the OS (images and imager)
+https://www.raspberrypi.com/software/operating-systems/
+https://www.raspberrypi.com/software/
+
+### Hardening tutorials
+https://sunknudsen.com/privacy-guides/how-to-configure-hardened-raspberry-pi
+https://stackoverflow.com/questions/41573587/what-is-the-difference-between-venv-pyvenv-pyenv-virtualenv-virtualenvwrappe
+https://chrisapproved.com/blog/raspberry-pi-hardening.html
+https://raspberrytips.com/security-tips-raspberry-pi/
+
+### Daemon and recurring tasks - Systemd
+https://medium.com/codex/setup-a-python-script-as-a-service-through-systemctl-systemd-f0cc55a42267
+https://www.tomshardware.com/how-to/run-long-running-scripts-raspberry-pi
+https://www.golinuxcloud.com/run-systemd-service-specific-user-group-linux/
