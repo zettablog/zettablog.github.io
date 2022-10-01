@@ -13,3 +13,7 @@ https://github.com/nurpeiis/Stock-Prediction
 
 https://github.com/nvbn/thefuck
 https://github.com/ajalt/fuckitpy
+
+## Hardening
+[Android ppone hardening](https://www.devilreef.net/securing-a-personal-android-phone/)
+[Raspberry pie hardening](https://chrisapproved.com/blog/raspberry-pi-hardening.html)
