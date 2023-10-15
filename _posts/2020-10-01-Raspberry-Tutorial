@@ -22,3 +22,6 @@
 ## Home Security
 [MotionEye](https://github.com/motioneye-project/motioneyeos/wiki)
 Note: ZoneMinder is much harder to install, configured and less usable than MotionEye. 
+
+## AI Vision
+[Real-time vision](https://github.com/roboflow/supervision)
