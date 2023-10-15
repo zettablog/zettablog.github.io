@@ -18,3 +18,7 @@
 
 ### Remote access 
 [TailScale - P2P VPN like](https://tailscale.com/)
+
+## Home Security
+[MotionEye](https://github.com/motioneye-project/motioneyeos/wiki)
+Note: ZoneMinder is much harder to install, configured and less usable than MotionEye. 
