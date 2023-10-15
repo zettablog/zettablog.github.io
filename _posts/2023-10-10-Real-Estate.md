@@ -7,7 +7,8 @@
 [Horiz.io](https://app.horiz.io/dashboard/future-investor)
 
 ## [FR] Statistics on 200m square resolution
-[Statistic map](https://eurostat.github.io/gridviz/examples/FR.html?lay=income)
+[Statistic map based on INSEE data](https://eurostat.github.io/gridviz/examples/FR.html?lay=income)
+[INSEE Statistic map](https://www.geoportail.gouv.fr/thematiques/economie-et-statistique)
 
 ## [FR] Estimate renovation work
 [Self-estimation](https://www.lacaserobinson.fr/estimer-soi-meme-budget-travaux-maison/)
