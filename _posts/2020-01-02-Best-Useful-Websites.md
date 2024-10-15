@@ -54,6 +54,7 @@ title: Best Useful Website
 ### Fiscality
 
 [TacoTax](https://www.tacotax.fr/defiscalisation/slider)
+[Personal Finance for Engineers](https://cs007.blog/)
 
 ### Translation
 
@@ -66,6 +67,8 @@ title: Best Useful Website
 ### Tips; Tricks; Hacks
 
 [geoguessr tricks](https://somerandomstuff1.wordpress.com/2019/02/08/geoguessr-the-top-tips-tricks-and-techniques/)
+[Daily hacks Cheat-sheet](https://github.com/trimstray/the-book-of-secret-knowledge#your-daily-knowledge-and-news-toc)
+[Awesome list of awesome list](https://github.com/topics/awesome)
 
 ### Emulator
 [Memu](https://www.memuplay.com)
@@ -77,6 +80,7 @@ title: Best Useful Website
 ### Security / Hardening / Windows
 [Instructions](https://gist.github.com/mackwage/08604751462126599d7e52f233490efe) 
 [Monitoring tools](https://blog.serverdensity.com/windows-monitoring-tools/)  
+[NSCH tutorial](https://www.dni.gov/index.php/ncsc-how-we-work/ncsc-know-the-risk-raise-your-shield/ncsc-awareness-materials)
 
 ### Security / CTF
 
@@ -84,6 +88,9 @@ title: Best Useful Website
 
 ### Security / Stats
 [Passwords Statistics](https://wpengine.com/unmasked/)  
+
+### Utilities
+[WinDirStat and equivalents to deal with space on disks](http://www.derlien.com/)
 
 ### FR / Location
 [LouerAgile](https://www.loueragile.fr)
